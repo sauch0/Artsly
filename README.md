@@ -102,7 +102,7 @@ http://localhost/artsly
 
 ### 🛡️ Admin
 - Email: `admin@gmail.com`  
-- Password: `admin123`
+- Password: `admin`
 
 ### 🎨 Artist
 - Email: `artist@gmail.com`  
